@@ -1,0 +1,42 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+nav{
+    margin-top: 5%;
+    display: flex;
+    border-radius: 70px;
+    align-content: center;
+    align-items: center;
+    background-color:#fef7e2; 
+    width: 50%;
+    margin-inline: 25%;
+}
+button{
+    display: flex;
+    flex: 1 1 100px;
+    margin-inline: 10px;
+    margin-block: 50px;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+    border-style: none;
+    border-radius: 50px;
+    background-color: #FFDF7F;
+}
+.shop{
+  display: flex;
+  height: 80px;
+  flex: 2 1 100px;
+  font-size: x-large;
+  font-weight: 900;
+  justify-content: space-evenly;
+  
+  
+}
+
+img{
+   display: flex;
+   width: 50px;
+   align-items: flex-start;
+}
